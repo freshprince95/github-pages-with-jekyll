@@ -1,2 +1,4 @@
-- title: "Sourcery"
-- date: 2019-12-18
+---
+title: "Sourcery"
+date: 2019-12-18
+---
